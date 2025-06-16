@@ -1,8 +1,8 @@
 # DDAI Network BOT
 DDAI Network BOT
 
-- Register Here : [DDAI Network](https://app.ddai.network/register?ref=TUEPDwXT)
-- Use Code `TUEPDwXT`
+- Register Here : [DDAI Network](https://app.ddai.network/register?ref=XZERVauB)
+- Use Code `XZERVauB`
 
 ## Features
 
